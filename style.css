@@ -1,0 +1,8 @@
+.custom-container {
+  width: 400px;
+  max-width: 960px;
+  margin: 15px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
