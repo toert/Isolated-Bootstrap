@@ -33,9 +33,6 @@ For Bootstrap 3:
     <!-- there Bootstrap 4 works-->
 </div>
 
-
-Demo:
-https://zakk616.github.io/Isolated-Bootstrap/
 <!-- there Bootstrap doesn't work-->
 
 <!-- there Bootstrap doesn't work -->
@@ -44,3 +41,5 @@ https://zakk616.github.io/Isolated-Bootstrap/
 </div>
 <!-- there Bootstrap doesn't work-->
 ```
+Demo:
+https://zakk616.github.io/Isolated-Bootstrap/
