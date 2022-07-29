@@ -32,6 +32,10 @@ For Bootstrap 3:
 <div class="bootstrap4">
     <!-- there Bootstrap 4 works-->
 </div>
+
+
+Demo:
+https://zakk616.github.io/Isolated-Bootstrap/
 <!-- there Bootstrap doesn't work-->
 
 <!-- there Bootstrap doesn't work -->
